@@ -1,8 +1,57 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BQL23Df.jpg" group-title="UK",BT Sport
-http://163.172.38.45:8081/btsp/sp1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
-http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+#EXTM3U
+
+#EXTINF:-1,Sky Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports News
+http://62.210.99.158:80/live?channelId=137&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,Sky Sports Box
+http://62.210.99.158:80/live?channelId=139&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1,YES SPORT_1 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7193.ts
+#EXTINF:-1,YES SPORT 2 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7194.ts
+#EXTINF:-1,YES SPORT 3 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/6758.ts
+#EXTINF:-1,YES SPORT 4 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7332.ts
+#EXTINF:-1,YES SPORT 5 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2945.ts
+#EXTINF:-1,YES SPORT 5 PLUS HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
+#EXTINF:-1,YES SPORT ONE HD
