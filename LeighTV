@@ -54,5 +54,8 @@ http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2945.ts
 #EXTINF:-1,YES SPORT 5 PLUS HD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
 #EXTINF:-1,YES SPORT ONE HD
-#EXTINF:-1,MU TV
-http://topiptv.net:5890/live/fathi/fathi1/3131.m3u
+#EXTINF:-1,UK: MUTV
+http://iptv.new4tec.com:8080/live/carlos/carlos/20994.ts
+#EXTINF:-1,UK: MUTV Backup
+http://iptv.new4tec.com:8080/live/carlos/carlos/20496.ts
+#EXTINF:-1,UK: MUTV FHD
