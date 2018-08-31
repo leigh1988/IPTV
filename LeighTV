@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,BBC ONE UK HD
-http://mlsh.co:2086/live/jake/jake1/20784.ts
-#EXTINF:-1,BBC TWO SD UK
-http://mlsh.co:2086/live/jake/jake1/20207.ts
-#EXTINF:-1,BBC TWO UK HD
-http://mlsh.co:2086/live/jake/jake1/20785.ts
 #EXTINF:-1,Sky Sports Action
 http://62.210.99.158:80/live?channelId=119&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Sky Sports Action HD
