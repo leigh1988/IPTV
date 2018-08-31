@@ -93,3 +93,10 @@ http://pro.smartgotv.com:8005/live/mondher/mondher/3059.ts
 http://pro.smartgotv.com:8005/live/mondher/mondher/3058.ts
 #EXTINF:-1,beIN-SPORTS HD10
 http://pro.smartgotv.com:8005/live/mondher/mondher/3057.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NR1ij5I.png" group-title="SPORT", Fox Sports HD 
+http://1.52.183.130:4022/udp/225.1.2.228:30120
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aeP9NGm.png" group-title="SPORT", Fox Sports 2 HD 
+http://1.52.183.130:4022/udp/225.1.1.108:30120
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MtLNU5v.png" group-title="SPORT", Fox Sports 3 HD 
+http://1.52.183.130:4022/udp/225.1.2.242:30120
