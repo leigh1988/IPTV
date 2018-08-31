@@ -66,3 +66,29 @@ http://62.210.214.28:80/live?channelId=143&uid=1732&deviceMac=00:1A:79:3C:C0:90
 http://62.210.214.28:80/live?channelId=144&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",BT Sport 3 HD
 http://62.210.214.28:80/live?channelId=145&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,beIN-SPORTS HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3046.ts
+#EXTINF:-1,beIN SPORTS HD11
+http://pro.smartgotv.com:8005/live/mondher/mondher/8259.ts
+#EXTINF:-1,beIN SPORTS HD12
+http://pro.smartgotv.com:8005/live/mondher/mondher/8260.ts
+#EXTINF:-1,beIN-SPORTS HD1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3066.ts
+#EXTINF:-1,beIN-SPORTS HD2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3065.ts
+#EXTINF:-1,beIN-SPORTS HD3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3064.ts
+#EXTINF:-1,beIN-SPORTS HD4
+http://pro.smartgotv.com:8005/live/mondher/mondher/3063.ts
+#EXTINF:-1,beIN-SPORTS HD5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3062.ts
+#EXTINF:-1,beIN-SPORTS HD6
+http://pro.smartgotv.com:8005/live/mondher/mondher/3061.ts
+#EXTINF:-1,beIN-SPORTS HD7
+http://pro.smartgotv.com:8005/live/mondher/mondher/3060.ts
+#EXTINF:-1,beIN-SPORTS HD8
+http://pro.smartgotv.com:8005/live/mondher/mondher/3059.ts
+#EXTINF:-1,beIN-SPORTS HD9
+http://pro.smartgotv.com:8005/live/mondher/mondher/3058.ts
+#EXTINF:-1,beIN-SPORTS HD10
+http://pro.smartgotv.com:8005/live/mondher/mondher/3057.ts
