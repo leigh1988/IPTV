@@ -93,7 +93,6 @@ http://pro.smartgotv.com:8005/live/mondher/mondher/3059.ts
 http://pro.smartgotv.com:8005/live/mondher/mondher/3058.ts
 #EXTINF:-1,beIN-SPORTS HD10
 http://pro.smartgotv.com:8005/live/mondher/mondher/3057.ts
-#EXTINF:-1,UK: SKYNEWS UK
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18420.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19330.ts
+#EXTINF:-1,ANIMALPLANET
+http://5.189.187.55:8000/live/Fadil/skype/712.m3u8
+
