@@ -1,2 +1,7 @@
-#EXTINF:-1, TNT HD
-http://stalker.darkuzdev.cf:8080/streamer/313.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | HD (US)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11251.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | HD (US)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11252.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | HD (US)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11250.m3u8
+
