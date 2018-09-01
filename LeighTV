@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,TR : BeiN SPORTS MAX 2 HD
 http://arabic-tv-box.de:7777/live/khayat/khayat/25131.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR HD" tvg-logo="" group-title="Turkey",SMARTSPOR HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/680.ts
