@@ -28,8 +28,6 @@ http://62.210.99.158:80/live?channelId=130&uid=2454&deviceMac=00:1A:79:3C:C9:29
 http://62.210.99.158:80/live?channelId=131&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Sky Sports Mix HD
 http://62.210.99.158:80/live?channelId=132&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1,Sky Sports PL
-http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Sky Sports PL HD
 http://62.210.99.158:80/live?channelId=134&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Sky Sports F1
