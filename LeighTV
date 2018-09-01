@@ -1,4 +1,2 @@
-#EXTINF:0,NBC Sports Network HD
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,NBC Sports Network SD
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
