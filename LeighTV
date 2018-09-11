@@ -1,25 +1,26 @@
-#EXTM3U
-#EXTINF:-1,VIP BEINSPORTS-NEWS
-http://54.36.168.168:8000/live/zizo18040/54544452/6836.ts
-#EXTINF:-1,Bein sport 1 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6811.ts
-#EXTINF:-1,Bein sport 2 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6810.ts
-#EXTINF:-1,Bein sport 3 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6809.ts
-#EXTINF:-1,Bein sport 4 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6808.ts
-#EXTINF:-1,Bein sport 5 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6807.ts
-#EXTINF:-1,Bein sport 6 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6806.ts
-#EXTINF:-1,Bein sport 7 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6805.ts
-#EXTINF:-1,Bein sport 8 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6804.ts
-#EXTINF:-1,Bein sport 9 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6803.ts
-#EXTINF:-1,Bein sport 10 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6802.ts
-#EXTINF:-1,Bein sport 11 HD
-http://54.36.168.168:8000/live/zizo18040/54544452/6801.ts
+#EXTINF:0, group-title="Sports",BT Sports 1 HD
+http://50.7.198.170:8081/abcd/bt1/playlist.m3u8
+#EXTINF:0, group-title="Sports",BT Sports 2 HD
+http://50.7.198.170:8081/abcd/bt2/playlist.m3u8
+#EXTINF:0, group-title="Sports",BT Sports 3 HD
+http://50.7.198.170:8081/abcd/bt3/playlist.m3u8
+#EXTINF:0, group-title="Sports",SKY Sports 1 HD
+http://50.7.198.170:8081/abcd/skysp1/playlist.m3u8
+#EXTINF:0, group-title="Sports",SKY Sports 2 HD
+http://50.7.198.170:8081/abcd/skysp2/playlist.m3u8
+#EXTINF:0, group-title="Sports",SKY Sports 3 HD
+http://50.7.198.170:8081/abcd/skysp3/playlist.m3u8
+#EXTINF:0, group-title="Sports",SKY Sports 4 HD
+http://50.7.198.170:8081/abcd/skysp4/playlist.m3u8
+#EXTINF:0, group-title="Sports",SKY Sports NEWS HD
+http://50.7.198.170:8081/abcd/skysp5/playlist.m3u8
+#EXTINF:0, group-title="Sports",Box Nation HD
+http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+#EXTINF:0, group-title="Sports",WWE HD
+http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
+#EXTINF:0, group-title="Sports",Star Sports 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+#EXTINF:0, group-title="Sports",Star Sports 2 HD
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:0, group-title="Sports",Star Sports 3
+http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
