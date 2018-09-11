@@ -1,42 +1,17 @@
-#EXTINF:-1,UK: Eir Sport 2
-http://163.172.62.63:8000/live/fazeel/fazeel/3754.ts
-#EXTINF:-1,UK: Eir Sport 1
-http://163.172.62.63:8000/live/fazeel/fazeel/3753.ts
-#EXTINF:-1,UK: SKY SPorts Cricket Bk
-http://163.172.62.63:8000/live/fazeel/fazeel/2391.ts
-#EXTINF:-1,UK: SKY SPorts Cricket
-http://163.172.62.63:8000/live/fazeel/fazeel/2392.ts
-#EXTINF:-1,UK: SKY SPORTS The Action
-http://163.172.62.63:8000/live/fazeel/fazeel/2389.ts
-#EXTINF:-1,UK: SKY SPORTS The Action Bk
-http://163.172.62.63:8000/live/fazeel/fazeel/2390.ts
-#EXTINF:-1,UK: SKY SPORTS Golf Bk
-http://163.172.62.63:8000/live/fazeel/fazeel/2388.ts
-#EXTINF:-1,UK: SKY SPORTS Premier League
-http://163.172.62.63:8000/live/fazeel/fazeel/2385.ts
-#EXTINF:-1,UK: SKY SPORTS Premier League BK
-http://163.172.62.63:8000/live/fazeel/fazeel/2386.ts
-#EXTINF:-1,UK: UK BT Sport 1 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/1974.ts
-#EXTINF:-1,UK: UK BT Sport 2 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/1973.ts
-#EXTINF:-1,UK: BT SPORTS 1 HD True
-http://163.172.62.63:8000/live/fazeel/fazeel/2398.ts
-#EXTINF:-1,UK: BT SPORTS 2 HD True
-http://163.172.62.63:8000/live/fazeel/fazeel/2397.ts
-#EXTINF:-1,UK: BT SPORTS 3 EUROPE HD True
-http://163.172.62.63:8000/live/fazeel/fazeel/2396.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HDs True
-http://163.172.62.63:8000/live/fazeel/fazeel/2382.ts
-#EXTINF:-1,UK: Setanta/Premier Sports HD True
-http://163.172.62.63:8000/live/fazeel/fazeel/2395.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://163.172.62.63:8000/live/fazeel/fazeel/2203.ts
-#EXTINF:-1,UK: Sky Sports 1 The Open
-http://163.172.62.63:8000/live/fazeel/fazeel/1922.ts
-#EXTINF:-1,UK: Sky sports 2 Cricket
-http://163.172.62.63:8000/live/fazeel/fazeel/1923.ts
-#EXTINF:-1,UK: Sky Sports 3 THE ACTION
-http://163.172.62.63:8000/live/fazeel/fazeel/1924.ts
-#EXTINF:-1,UK: Sky Sports 4 Golf
-http://163.172.62.63:8000/live/fazeel/fazeel/2093.ts
+#EXTM3U
+#EXTINF:-1,BEiN SPORT HABER HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17267.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (1920x1080)
+http://163.172.89.139:1795/live/dogus1/dogus1/17265.ts
+#EXTINF:-1,BEiNSPORT1 FHD
+http://163.172.89.139:1795/live/dogus1/dogus1/17261.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (1920X1080)
+http://163.172.89.139:1795/live/dogus1/dogus1/17259.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (1920X1080)
+http://163.172.89.139:1795/live/dogus1/dogus1/17258.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (1920X1080)
+http://163.172.89.139:1795/live/dogus1/dogus1/17257.ts
+#EXTINF:-1,BEIN SPORTS 4K
+http://163.172.89.139:1795/live/dogus1/dogus1/17263.ts
+#EXTINF:-1,BEIN SPORTS MAX 1 HD (1920x1080)
+
