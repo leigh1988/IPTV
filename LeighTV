@@ -1,3 +1,7 @@
-EXTINF:-1,[UK] Disney Junior UK
-http://134.19.181.172:8000/live/fff5/fff5/960.ts
+#EXTINF:-1,UK: BT Sport1
+http://163.172.89.139:1795/live/dogus1/dogus1/18942.ts
+#EXTINF:-1,UK: BT Sport2
+http://163.172.89.139:1795/live/dogus1/dogus1/18941.ts
+#EXTINF:-1,UK: EUROSPORT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/18908.t
 
