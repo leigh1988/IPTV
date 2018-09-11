@@ -1,16 +1,6 @@
-
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS SUR..
-http://p4.giffy.be:8080/live/Mike/Mike/60399.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS SUR
-http://p4.giffy.be:8080/live/Mike/Mike/35779.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS SUR 2 (op2)
-http://p4.giffy.be:8080/live/Mike/Mike/60398.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS 2 SUR.
-http://p4.giffy.be:8080/live/Mike/Mike/35777.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS SUR 3 (op2)
-http://p4.giffy.be:8080/live/Mike/Mike/60397.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX SPORTS 3 SUR
-http://p4.giffy.be:8080/live/Mike/Mike/35778.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX DEPORTES
-http://p4.giffy.be:8080/live/Mike/Mike/42210.ts
-#EXTINF:-1,     List-Iptv.com        ,FOX PREMIUM HD
+#EXTINF:-1,UK: BBC 1 HD
+http://5.226.139.5:6969/live/mmark/mmark/15094.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://5.226.139.5:6969/live/mmark/mmark/15093.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://5.226.139.5:6969/live/mmark/mmark/15092.ts
