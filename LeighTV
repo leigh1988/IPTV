@@ -1,7 +1,42 @@
-﻿#EXTM3U
-#EXTINF:-1,USA/CA : AMC HD* (G)
-http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11511.ts
-#EXTINF:-1,USA/CA : Animal Planet HD (G)
-http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11510.ts
-#EXTINF:-1,USA/CA : BEIN USA HD (G)
-http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11509.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://163.172.62.63:8000/live/fazeel/fazeel/3754.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://163.172.62.63:8000/live/fazeel/fazeel/3753.ts
+#EXTINF:-1,UK: SKY SPorts Cricket Bk
+http://163.172.62.63:8000/live/fazeel/fazeel/2391.ts
+#EXTINF:-1,UK: SKY SPorts Cricket
+http://163.172.62.63:8000/live/fazeel/fazeel/2392.ts
+#EXTINF:-1,UK: SKY SPORTS The Action
+http://163.172.62.63:8000/live/fazeel/fazeel/2389.ts
+#EXTINF:-1,UK: SKY SPORTS The Action Bk
+http://163.172.62.63:8000/live/fazeel/fazeel/2390.ts
+#EXTINF:-1,UK: SKY SPORTS Golf Bk
+http://163.172.62.63:8000/live/fazeel/fazeel/2388.ts
+#EXTINF:-1,UK: SKY SPORTS Premier League
+http://163.172.62.63:8000/live/fazeel/fazeel/2385.ts
+#EXTINF:-1,UK: SKY SPORTS Premier League BK
+http://163.172.62.63:8000/live/fazeel/fazeel/2386.ts
+#EXTINF:-1,UK: UK BT Sport 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1974.ts
+#EXTINF:-1,UK: UK BT Sport 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1973.ts
+#EXTINF:-1,UK: BT SPORTS 1 HD True
+http://163.172.62.63:8000/live/fazeel/fazeel/2398.ts
+#EXTINF:-1,UK: BT SPORTS 2 HD True
+http://163.172.62.63:8000/live/fazeel/fazeel/2397.ts
+#EXTINF:-1,UK: BT SPORTS 3 EUROPE HD True
+http://163.172.62.63:8000/live/fazeel/fazeel/2396.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HDs True
+http://163.172.62.63:8000/live/fazeel/fazeel/2382.ts
+#EXTINF:-1,UK: Setanta/Premier Sports HD True
+http://163.172.62.63:8000/live/fazeel/fazeel/2395.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://163.172.62.63:8000/live/fazeel/fazeel/2203.ts
+#EXTINF:-1,UK: Sky Sports 1 The Open
+http://163.172.62.63:8000/live/fazeel/fazeel/1922.ts
+#EXTINF:-1,UK: Sky sports 2 Cricket
+http://163.172.62.63:8000/live/fazeel/fazeel/1923.ts
+#EXTINF:-1,UK: Sky Sports 3 THE ACTION
+http://163.172.62.63:8000/live/fazeel/fazeel/1924.ts
+#EXTINF:-1,UK: Sky Sports 4 Golf
+http://163.172.62.63:8000/live/fazeel/fazeel/2093.ts
