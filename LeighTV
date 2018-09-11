@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BEiN SPORT HABER HD
-http://163.172.89.139:1795/live/dogus1/dogus1/17267.ts
-#EXTINF:-1,BEIN SPORTS 1 HD (1920x1080)
-http://163.172.89.139:1795/live/dogus1/dogus1/17265.ts
-#EXTINF:-1,BEiNSPORT1 FHD
-http://163.172.89.139:1795/live/dogus1/dogus1/17261.ts
-#EXTINF:-1,BEIN SPORTS 2 HD (1920X1080)
-http://163.172.89.139:1795/live/dogus1/dogus1/17259.ts
-#EXTINF:-1,BEIN SPORTS 3 HD (1920X1080)
-http://163.172.89.139:1795/live/dogus1/dogus1/17258.ts
-#EXTINF:-1,BEIN SPORTS 4 HD (1920X1080)
-http://163.172.89.139:1795/live/dogus1/dogus1/17257.ts
-#EXTINF:-1,BEIN SPORTS 4K
-http://163.172.89.139:1795/live/dogus1/dogus1/17263.ts
-#EXTINF:-1,BEIN SPORTS MAX 1 HD (1920x1080)
+#EXTINF:-1,UK: Sky Sport News
+http://iptvshare.dynu.com:12500/live/xnowqnqonccq/bxkqkabcqiub31oip/4413.ts
 
