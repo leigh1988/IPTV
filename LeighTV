@@ -1,11 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" 
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6535.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" 
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15708.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" 
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6536.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" 
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7925.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
+http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
+http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
+http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6556.ts
