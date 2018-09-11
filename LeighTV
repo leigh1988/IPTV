@@ -1,17 +1,7 @@
-#EXTINF:-1,beIN-SPORTS HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3046.ts
-#EXTINF:-1,beIN SPORTS HD11
-http://pro.smartgotv.com:8005/live/mondher/mondher/8259.ts
-#EXTINF:-1,beIN SPORTS HD12
-http://pro.smartgotv.com:8005/live/mondher/mondher/8260.ts
-#EXTINF:-1,beIN-SPORTS HD1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3066.ts
-#EXTINF:-1,beIN-SPORTS HD2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3065.ts
-#EXTINF:-1,beIN-SPORTS HD3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3064.ts
-#EXTINF:-1,beIN-SPORTS HD4
-http://pro.smartgotv.com:8005/live/mondher/mondher/3063.ts
-#EXTINF:-1,beIN-SPORTS HD5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3062.ts
-#EXTINF:-1,beIN-SPORTS HD6
+﻿#EXTM3U
+#EXTINF:-1,USA/CA : AMC HD* (G)
+http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11511.ts
+#EXTINF:-1,USA/CA : Animal Planet HD (G)
+http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11510.ts
+#EXTINF:-1,USA/CA : BEIN USA HD (G)
+http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11509.ts
