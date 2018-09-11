@@ -1,2 +1,30 @@
 #EXTINF:-1,Bein Sport 1HD FR
 http://sw.fannan.se:8000/live/zizo18040/54544452/6799.ts.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8089.ts.m3u8
+ #EXTINF:-1,IT: SKY SPORT 2
+http://sw.fannan.se:8000/live/zizo18040/54544452/8088.ts.m3u8
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8086.ts.m3u8
+ #EXTINF:-1,DE:SKY_SPORT_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8060.ts.m3u8
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/671.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 9 HD
+http://5.189.187.55:8000/live/Fadil/skype/768.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 8 HD
+http://5.189.187.55:8000/live/Fadil/skype/769.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 7 HD
+http://5.189.187.55:8000/live/Fadil/skype/770.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 6 HD
+http://5.189.187.55:8000/live/Fadil/skype/771.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/772.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 12 HD
+http://5.189.187.55:8000/live/Fadil/skype/776.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 11 HD
+http://5.189.187.55:8000/live/Fadil/skype/777.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 10 HD
+http://5.189.187.55:8000/live/Fadil/skype/778.ts.m3u8
+ #EXTINF:-1,AR: Bein Sports 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/779.ts.m3u8
