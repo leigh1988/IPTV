@@ -1,6 +1,17 @@
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6556.ts
+#EXTINF:-1,beIN-SPORTS HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3046.ts
+#EXTINF:-1,beIN SPORTS HD11
+http://pro.smartgotv.com:8005/live/mondher/mondher/8259.ts
+#EXTINF:-1,beIN SPORTS HD12
+http://pro.smartgotv.com:8005/live/mondher/mondher/8260.ts
+#EXTINF:-1,beIN-SPORTS HD1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3066.ts
+#EXTINF:-1,beIN-SPORTS HD2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3065.ts
+#EXTINF:-1,beIN-SPORTS HD3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3064.ts
+#EXTINF:-1,beIN-SPORTS HD4
+http://pro.smartgotv.com:8005/live/mondher/mondher/3063.ts
+#EXTINF:-1,beIN-SPORTS HD5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3062.ts
+#EXTINF:-1,beIN-SPORTS HD6
