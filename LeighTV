@@ -1,2 +1,3 @@
-#EXTINF: -1, Árabe IPTV OSN Sport 2 HD
-http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/7050.ts
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="Sky Arts HD - 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sky_arts_HD_Logo_Germany_2016.png" group-title="UK | HD channels",Sky Arts HD - 1080p
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/17882.ts
+
