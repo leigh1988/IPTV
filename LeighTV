@@ -11,4 +11,45 @@ http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14704.ts
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 HD" tvg-logo="http://epg4you.com/logos/btsport3hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 3 HD
 http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14701.ts
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 FHD" tvg-logo="http://epg4you.com/logos/btsport3hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 3 FHD
-
+#EXTINF:-1 tvg-id="" tvg-name="USA Astro Supersport 1" tvg-logo="" group-title="3PM / PPV / VIP",USA Astro Supersport 1
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11678.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Astro Supersport 2" tvg-logo="" group-title="3PM / PPV / VIP",USA Astro Supersport 2
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11677.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Astro Supersport 3" tvg-logo="" group-title="3PM / PPV / VIP",USA Astro Supersport 3
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11676.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Astro Supersport 4" tvg-logo="" group-title="3PM / PPV / VIP",USA Astro Supersport 4
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11675.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360  FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET 360  FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11768.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet EAST" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet EAST
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11767.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONE  FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONE  FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11766.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Sportsnet One FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: Sportsnet One FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11765.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO  SD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONTARIO  SD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11763.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONTARIO FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11764.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET PACIFIC  HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET PACIFIC  HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11762.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WEST  HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WEST  HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WORLD HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WORLD HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11760.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WORLD HD*" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WORLD HD*
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11759.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 1" tvg-logo="http://picon.space/skynetsports1.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 1
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11775.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 2" tvg-logo="http://picon.space/skynetsports2.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 2
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11774.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 3" tvg-logo="http://picon.space/skynetsports3.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 3
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11773.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 4" tvg-logo="http://picon.space/skynetsports4.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 4
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11772.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 5" tvg-logo="http://picon.space/skynetsports5.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 5
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11771.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS 6" tvg-logo="http://picon.space/skynetsports6.png" group-title="3PM / PPV / VIP",SKYNET SPORTS 6
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11770.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKYNET SPORTS HD" tvg-logo="" group-title="3PM / PPV / VIP",SKYNET SPORTS HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11769.ts
