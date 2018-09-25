@@ -1,3 +1,14 @@
 #EXTINF:-1 tvg-id="skyarts.uk" tvg-name="Sky Arts HD - 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sky_arts_HD_Logo_Germany_2016.png" group-title="UK | HD channels",Sky Arts HD - 1080p
 http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/17882.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORTS 1 HD" tvg-logo="http://epg4you.com/logos/btsport1hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 1 HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14705.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORTS 1 FHD" tvg-logo="http://epg4you.com/logos/btsport1hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 1 FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14706.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 HD" tvg-logo="http://epg4you.com/logos/btsport2hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 2 HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14703.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 FHD" tvg-logo="http://epg4you.com/logos/btsport2hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 2 FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14704.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 HD" tvg-logo="http://epg4you.com/logos/btsport3hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 3 HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/14701.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 FHD" tvg-logo="http://epg4you.com/logos/btsport3hd.png" group-title="UK | Bt Sports 50FPS Pure HD",BT SPORTS 3 FHD
 
